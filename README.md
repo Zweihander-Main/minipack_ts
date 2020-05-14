@@ -1,3 +1,5 @@
+# Deprecated -- [See TSBunch for the successor](https://github.com/Zweihander-Main/TSBunch)
+
 ## 📦 Minipack_TS
 
 > A VERY simple bundler designed to bundle TypeScript without compiling it into JS (Multiple .ts -> Single .ts)
